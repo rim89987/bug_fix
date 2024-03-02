@@ -1,0 +1,66 @@
+@media (min-width: 350px) and (max-width: 575px) {
+  .container {
+    max-width: 350px;
+  }
+  .nav-img {
+    height: 50px;
+  }
+  #banner {
+    background: var(--primary);
+    padding-top: 93px;
+    padding-bottom: 135px;
+  }
+  .banner_text_area h1 {
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 61px;
+    width: 468px;
+  }
+  .banner_text_area p {
+    width: 333px;
+  }
+  .banner-img-area img {
+    width: 200px;
+    padding-top: 40px;
+  }
+  .tittle {
+    text-align: left;
+  }
+  .tittle__peragraph {
+    width: 312px;
+    margin: 0;
+  }
+  .serviceitemwrapper {
+    max-width: 350px;
+  }
+  .customer-title-heading h2 {
+    width: 361px;
+    font-size: 40px;
+  }
+  .customer-title-pera p {
+    width: 316px;
+    margin-top: 20px;
+  }
+  .customer-row {
+    max-width: 350px;
+    row-gap: 25px;
+  }
+  .customer-row img {
+    width: 100%;
+  }
+  .bug_fix_1 {
+    max-width: 330px;
+  }
+  .bug_fix_2 {
+    margin: 0;
+  }
+  .team-row {
+    row-gap: 25px;
+  }
+  .bug_fix_3 {
+    max-width: 330px;
+  }
+  .news__links input {
+    max-width: 100px;
+  }
+}
